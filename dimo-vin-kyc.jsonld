@@ -6,13 +6,13 @@
       "id": "@id",
       "type": "@type",
       "DIMOVinKYC": {
-        "@id": "",
+        "@id": "https://raw.githubusercontent.com/DIMO-Network/vinKYC/main/dimo-vin-kyc.jsonld?#vinKYC",
         "@context": {
           "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "",
+          "vocab": "https://github.com/DIMO-Network/vinKYC/blob/main/dimo-vin-kyc-vocab.md#",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "vin": {
             "@id": "vocab:vin",

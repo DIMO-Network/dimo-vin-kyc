@@ -3,8 +3,8 @@
   "type": "object",
   "$metadata": {
     "uris": {
-      "jsonLdContext": "",
-      "jsonSchema": ""
+      "jsonLdContext": "https://raw.githubusercontent.com/DIMO-Network/vinKYC/main/dimo-vin-kyc.jsonld",
+      "jsonSchema": "https://github.com/DIMO-Network/vinKYC/blob/main/dimo-vin-kyc-vocab.md"
     }
   },
   "required": [
