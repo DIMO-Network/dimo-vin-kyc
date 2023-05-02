@@ -1,0 +1,29 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "DIMOVinKYC": {
+        "@id": "",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": "",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "vin": {
+            "@id": "vocab:vin",
+            "@type": "xsd:string"
+          },
+          "tokenID": {
+            "@id": "vocab:tokenID",
+            "@type": "xsd:string"
+          }
+        }
+      }
+    }
+  ]
+}
